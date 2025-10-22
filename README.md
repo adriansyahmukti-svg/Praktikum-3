@@ -14,8 +14,8 @@ Membuat hello dan saya sedang belajar python di terminal - • masuk mode python
 
 • masukan hasil foto screenshot di folder latihan1
 
-Menjumlahkan dua bilangan variable a dan b - • mendefinisikan variable a dengan nilai 8, dengan cara a=8
-• mendefinisikan variable b dengan nilai 6, dengan cara b=6
+Menjumlahkan dua bilangan variable a dan b - • mendefinisikan variable a dengan nilai 20, dengan cara a=20
+• mendefinisikan variable b dengan nilai 14, dengan cara b=14
 
 • mencetak nilai variable a dan b, dengan cara print("variable a adalah",a) dan print("variable b adalah",b)
 
